@@ -24,7 +24,7 @@ Images    | Image Files for Readme
 ## DESCRIPTION:
 Feed a virtual pet as you earning steps!
 
-Every day this neat watch face will randomly generate an animated pet with new colors and new shapes. The file size for this watch is very small, because everything is calculated in memory based on mathematics using your watch size , watch settings, day of the week, date, minute, and seconds data. The system chooses between 10 colors for all designs : Black, White, Gray, Sky Blue, Light Blue, Yellow, Dark Pink, Light Pink, Green, and Light Green. Your watch maps these colors according to it's display type: AMOLED, Memory-In-Pixel (64 colors), Memory-In-Pixel (16 colors), Transflective Liquid-Crystal (High Color), and so on. SEE VIDEO BELOW
+Every day this neat watch face will randomly generate an animated pet with new colors and new shapes. The file size for this watch is very small, because everything is calculated in memory based on mathematics using your watch size , watch settings, day of the week, date, minute, and seconds data. SEE VIDEO BELOW
 
 ## INCLUDES:
 
